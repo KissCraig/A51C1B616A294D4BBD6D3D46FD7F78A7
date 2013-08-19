@@ -1,0 +1,18 @@
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.pdb
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.Properties.Resources.resources
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.csproj.GenerateResource.Cache
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.pdb
+E:\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.dll
+E:\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.pdb
+E:\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.Properties.Resources.resources
+E:\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.csproj.GenerateResource.Cache
+E:\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.dll
+E:\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.WatchTV.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.WatchTV\obj\Debug\KCPlayer.Plugin.WatchTV.pdb

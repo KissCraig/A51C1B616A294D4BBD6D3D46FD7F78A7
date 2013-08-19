@@ -1,0 +1,14 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Release\App.Resx.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\obj\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\obj\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\obj\Release\App.Resx.csprojResolveAssemblyReference.cache

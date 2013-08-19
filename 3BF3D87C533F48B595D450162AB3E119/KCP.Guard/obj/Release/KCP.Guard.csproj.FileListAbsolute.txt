@@ -1,0 +1,9 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.Guard.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.Guard.List.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.Guard.List.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Release\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Release\KCP.Guard.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Release\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Release\KCP.Guard.pdb

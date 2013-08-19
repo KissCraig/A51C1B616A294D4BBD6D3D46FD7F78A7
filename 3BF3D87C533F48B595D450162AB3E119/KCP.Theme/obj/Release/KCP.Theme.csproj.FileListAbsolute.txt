@@ -1,0 +1,11 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.Default.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.Default.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.Theme.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\bin\Release\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\obj\Release\KCP.Theme.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\obj\Release\KCP.Theme.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme\obj\Release\KCP.Theme.pdb

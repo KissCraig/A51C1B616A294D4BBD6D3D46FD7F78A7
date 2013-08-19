@@ -1,0 +1,92 @@
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.Style.dll
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.Style.pdb
+E:\HtmlDev\Github\KCPlayer\App.Style\obj\Release\App.Style.dll
+E:\HtmlDev\Github\KCPlayer\App.Style\obj\Release\App.Style.pdb
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.Resx.dll
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.Resx.pdb
+E:\HtmlDev\Github\KCPlayer\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.FileIO.dll
+E:\HtmlDev\Github\KCPlayer\App.Style\bin\Release\App.FileIO.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Style.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Style.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Base.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.FileIO.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Resx.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Base.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.FileIO.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Release\App.Resx.pdb
+E:\HtmlDev\Github\App.Port\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\App.Port\App.Style\obj\Release\App.Style.dll
+E:\HtmlDev\Github\App.Port\App.Style\obj\Release\App.Style.pdb
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Style.dll
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Style.pdb
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Base.dll
+D:\GenoDev\App.Port\App.Style\bin\Release\App.FileIO.dll
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Resx.dll
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Base.pdb
+D:\GenoDev\App.Port\App.Style\bin\Release\App.FileIO.pdb
+D:\GenoDev\App.Port\App.Style\bin\Release\App.Resx.pdb
+D:\GenoDev\App.Port\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\App.Port\App.Style\obj\Release\App.Style.dll
+D:\GenoDev\App.Port\App.Style\obj\Release\App.Style.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Style.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Style.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Base.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.FileIO.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Font.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Resx.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Base.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.FileIO.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Font.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Release\App.Resx.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Release\App.Style.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Release\App.Style.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Style.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Style.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Base.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.FileIO.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Font.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Resx.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Base.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.FileIO.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Font.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Release\App.Resx.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Release\App.Style.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Release\App.Style.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Style.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Style.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Base.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.FileIO.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Font.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Resx.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Base.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.FileIO.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Font.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Release\App.Resx.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Release\App.Style.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Release\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Release\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Release\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Release\App.Style.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Release\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Release\App.Style.pdb

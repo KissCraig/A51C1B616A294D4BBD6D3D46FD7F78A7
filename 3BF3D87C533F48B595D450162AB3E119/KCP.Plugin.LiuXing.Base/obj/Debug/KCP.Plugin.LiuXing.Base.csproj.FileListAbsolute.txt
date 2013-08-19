@@ -1,0 +1,45 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Fase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Control.Gase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\bin\Debug\KCP.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Base\obj\Debug\KCP.Plugin.LiuXing.Base.pdb

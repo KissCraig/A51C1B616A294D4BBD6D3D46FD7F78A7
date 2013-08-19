@@ -1,0 +1,13 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Plugin.LiuXing.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Plugin.LiuXing.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\bin\Release\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\obj\Release\KCP.Plugin.LiuXing.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\obj\Release\KCP.Plugin.LiuXing.Properties.Resources.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\obj\Release\KCP.Plugin.LiuXing.csproj.GenerateResource.Cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\obj\Release\KCP.Plugin.LiuXing.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\obj\Release\KCP.Plugin.LiuXing.pdb

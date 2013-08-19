@@ -1,0 +1,4 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\bin\Release\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\bin\Release\KCP.File.Cmp.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Release\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Release\KCP.File.Cmp.pdb

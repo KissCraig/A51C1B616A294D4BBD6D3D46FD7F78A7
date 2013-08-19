@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>Release-Geno A51C.Plugin.Safe</StartArguments>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\A51C1B616A294D4BBD6D3D46FD7F78A7\Release\A51C.Main.exe</StartProgram>
+  </PropertyGroup>
+</Project>

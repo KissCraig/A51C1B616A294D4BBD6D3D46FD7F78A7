@@ -1,0 +1,4 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Info\bin\Release\KCP.Info.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Info\bin\Release\KCP.Info.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Info\obj\Release\KCP.Info.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Info\obj\Release\KCP.Info.pdb

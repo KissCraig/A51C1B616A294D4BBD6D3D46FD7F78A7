@@ -1,0 +1,18 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\bin\Debug\KCP.Main.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\bin\Debug\KCP.Main.Map.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.pdb
+E:\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.dll
+E:\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Map.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Main.Map.pdb

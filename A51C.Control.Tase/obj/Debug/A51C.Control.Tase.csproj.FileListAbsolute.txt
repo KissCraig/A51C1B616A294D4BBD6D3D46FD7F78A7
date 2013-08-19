@@ -1,0 +1,7 @@
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\Release\Plugins\A51C.Control.Tase.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\Release\Plugins\A51C.Control.Tase.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Control.Tase\obj\Debug\A51C.Control.Tase.csprojResolveAssemblyReference.cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Control.Tase\obj\Debug\A51C.Control.Tase.MetroForView.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Control.Tase\obj\Debug\A51C.Control.Tase.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Control.Tase\obj\Debug\A51C.Control.Tase.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Control.Tase\obj\Debug\A51C.Control.Tase.pdb

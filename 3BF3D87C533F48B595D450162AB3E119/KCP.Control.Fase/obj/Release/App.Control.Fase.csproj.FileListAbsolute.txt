@@ -1,0 +1,9 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\obj\Release\App.Control.Fase.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\obj\Release\App.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Fase\obj\Release\App.Control.Fase.pdb

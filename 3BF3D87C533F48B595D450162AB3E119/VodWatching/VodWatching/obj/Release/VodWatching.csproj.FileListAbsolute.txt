@@ -1,0 +1,9 @@
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\bin\Release\VodWatching.dll.config
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\bin\Release\VodWatching.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\bin\Release\VodWatching.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.ContentPanel.resources
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.Properties.Resources.resources
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.csproj.GenerateResource.Cache
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Release\VodWatching.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\bin\Debug\KCP.Main.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\bin\Debug\KCP.Main.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.pdb
+E:\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.dll
+E:\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Base\obj\Debug\KCP.Main.Base.pdb

@@ -1,0 +1,4 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Base\bin\Release\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Base\bin\Release\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Base\obj\Release\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Base\obj\Release\KCP.Control.Base.pdb

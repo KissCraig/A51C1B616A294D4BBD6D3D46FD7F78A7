@@ -1,0 +1,11 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Lase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Lase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\bin\Debug\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\obj\Debug\KCP.Control.Lase.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\obj\Debug\KCP.Control.Lase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Lase\obj\Debug\KCP.Control.Lase.pdb

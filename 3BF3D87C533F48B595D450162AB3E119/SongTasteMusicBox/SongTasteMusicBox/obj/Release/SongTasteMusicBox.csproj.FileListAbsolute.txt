@@ -1,0 +1,9 @@
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\bin\Release\SongTasteMusicBox.dll
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\bin\Release\SongTasteMusicBox.pdb
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Release\SongTasteMusicBox.Properties.Resources.resources
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Release\SongTasteMusicBox.csproj.GenerateResource.Cache
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Release\SongTasteMusicBox.dll
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Release\SongTasteMusicBox.pdb
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Release\SongTastePlayer.Controls.PlayerList.resources
+D:\开发程序\KCPlayerApi\Release\Plugin\SongTasteMusicBox.dll
+D:\开发程序\KCPlayerApi\Release\Plugin\SongTasteMusicBox.pdb

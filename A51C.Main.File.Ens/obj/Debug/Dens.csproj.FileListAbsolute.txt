@@ -1,0 +1,5 @@
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Dens.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Dens.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.File.Ens\obj\Debug\Dens.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.File.Ens\obj\Debug\Dens.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.File.Ens\obj\Debug\Dens.csprojResolveAssemblyReference.cache

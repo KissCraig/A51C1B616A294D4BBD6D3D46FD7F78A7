@@ -1,0 +1,5 @@
+D:\GenoSoft\Geno.Edu.HExam\Release\Load.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Load.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Boan.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Load.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Load.pdb

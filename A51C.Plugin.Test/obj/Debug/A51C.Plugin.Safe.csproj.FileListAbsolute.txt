@@ -1,0 +1,7 @@
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\Release\Plugins\A51C.Plugin.Safe.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\Release\Plugins\A51C.Plugin.Safe.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Plugin.Safe\obj\Debug\A51C.Plugin.Safe.csprojResolveAssemblyReference.cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Plugin.Safe\obj\Debug\A51C.Plugin.Safe.Properties.Resources.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Plugin.Safe\obj\Debug\A51C.Plugin.Safe.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Plugin.Safe\obj\Debug\A51C.Plugin.Safe.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\A51C.Plugin.Safe\obj\Debug\A51C.Plugin.Safe.pdb

@@ -1,0 +1,17 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\bin\Debug\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\bin\Debug\KCP.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Gase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Gase\obj\Debug\KCP.Control.Gase.pdb

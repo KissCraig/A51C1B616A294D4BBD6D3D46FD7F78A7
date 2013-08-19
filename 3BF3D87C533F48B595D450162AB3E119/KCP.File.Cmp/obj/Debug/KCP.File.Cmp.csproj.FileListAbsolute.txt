@@ -1,0 +1,18 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\bin\Debug\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\bin\Debug\KCP.File.Cmp.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.pdb
+E:\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.dll
+E:\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Cmp.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Cmp\obj\Debug\KCP.File.Cmp.pdb

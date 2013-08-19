@@ -1,0 +1,13 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Debug\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Debug\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\bin\Debug\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Debug\App.Resx.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Resx\obj\Debug\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Debug\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Debug\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\bin\Debug\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\obj\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Resx\obj\Debug\App.Resx.pdb

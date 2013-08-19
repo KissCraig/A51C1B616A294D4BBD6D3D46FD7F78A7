@@ -1,0 +1,11 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\obj\Release\App.Control.Gase.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\obj\Release\App.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Gase\obj\Release\App.Control.Gase.pdb

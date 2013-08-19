@@ -1,0 +1,10 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Bar.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Bar.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Bar\obj\Debug\Geno.Main.Bar.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Bar\obj\Debug\Geno.Main.Bar.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Bar\obj\Debug\Geno.Main.Bar.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Bar.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Bar.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Bar\obj\Debug\Geno.Main.Bar.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Bar\obj\Debug\Geno.Main.Bar.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Bar\obj\Debug\Geno.Main.Bar.pdb

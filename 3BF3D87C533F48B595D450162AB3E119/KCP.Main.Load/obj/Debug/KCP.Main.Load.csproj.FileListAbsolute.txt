@@ -1,0 +1,56 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Load.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Load.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Tase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.File.Cmp.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.File.Ens.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Guard.List.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Info.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Bar.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Tile.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.Default.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Control.Tase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.File.Cmp.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.File.Ens.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Guard.List.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Guard.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Bar.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Tile.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Info.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.Default.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Theme.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\bin\Debug\KCP.Main.Map.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.dll
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+E:\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.dll
+E:\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Load\obj\Debug\KCP.Main.Load.pdb

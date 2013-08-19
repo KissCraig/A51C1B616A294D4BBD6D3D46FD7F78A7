@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ACF41426-1C59-4D8B-AE70-F66A334F88EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>A51C.Load</RootNamespace>
+    <AssemblyName>A51C.Load</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LoadHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\A51C.Main.Base\A51C.Main.Base.csproj">
+      <Project>{413f6153-624f-42b8-83a0-5c664cf276b9}</Project>
+      <Name>A51C.Main.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Config\A51C.Main.Config.csproj">
+      <Project>{ae836c63-6bf7-4309-ab8c-a8e39444b0cd}</Project>
+      <Name>A51C.Main.Config</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.File.Ens\A51C.Dens.csproj">
+      <Project>{b42232d3-2817-416a-83af-76266da916f4}</Project>
+      <Name>A51C.Dens</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Guard.List\A51C.Main.Guard.List.csproj">
+      <Project>{78bfe845-0dfc-4d80-8650-c7b8f73ef1a2}</Project>
+      <Name>A51C.Main.Guard.List</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Tile\A51C.Main.Tile.csproj">
+      <Project>{f0f65958-d3e9-4346-9f5d-77d6661b996e}</Project>
+      <Name>A51C.Main.Tile</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C\A51C.csproj">
+      <Project>{5a458f2a-18cc-430f-9ff7-18eeda2f7b91}</Project>
+      <Name>A51C</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Guard\A51C.Main.Guard.csproj">
+      <Project>{2fc8e88a-dcfd-4d93-9822-7fa005897ed6}</Project>
+      <Name>A51C.Main.Guard</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Theme.Default\A51C.Main.Theme.Default.csproj">
+      <Project>{16e89d6c-842e-4e55-a1e5-6891d58287c3}</Project>
+      <Name>A51C.Main.Theme.Default</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Theme.Font\A51C.Main.Theme.Font.csproj">
+      <Project>{31c83219-34c8-48d0-97af-55c754f6ab59}</Project>
+      <Name>A51C.Main.Theme.Font</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\A51C.Main.Theme\A51C.Main.Theme.csproj">
+      <Project>{b4cc5cfe-a414-49c1-afed-8f32e5e7ee70}</Project>
+      <Name>A51C.Main.Theme</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,22 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\bin\Debug\KCP.Main.Bar.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\bin\Debug\KCP.Main.Bar.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.pdb
+E:\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.dll
+E:\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Bar.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.Bar\obj\Debug\KCP.Main.Bar.pdb

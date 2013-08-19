@@ -1,0 +1,50 @@
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.pdb
+E:\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.dll
+E:\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Plugin.Music.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Base.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Fase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Gase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Control.Tase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\bin\Debug\KCP.Info.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music.Base\obj\Debug\KCP.Plugin.Music.Base.pdb

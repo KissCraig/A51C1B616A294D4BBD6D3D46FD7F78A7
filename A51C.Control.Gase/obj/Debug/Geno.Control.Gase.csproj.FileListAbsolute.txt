@@ -1,0 +1,10 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Gase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Gase.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Gase\obj\Debug\Geno.Control.Gase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Gase\obj\Debug\Geno.Control.Gase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Gase\obj\Debug\Geno.Control.Gase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Gase.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Gase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Gase\obj\Debug\Geno.Control.Gase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Gase\obj\Debug\Geno.Control.Gase.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Gase\obj\Debug\Geno.Control.Gase.pdb

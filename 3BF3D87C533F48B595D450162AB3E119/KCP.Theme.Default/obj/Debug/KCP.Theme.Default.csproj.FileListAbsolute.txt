@@ -1,0 +1,21 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\bin\Debug\KCP.Theme.Default.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\bin\Debug\KCP.Theme.Default.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.pdb
+E:\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.dll
+E:\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Default.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Default\obj\Debug\KCP.Theme.Default.pdb

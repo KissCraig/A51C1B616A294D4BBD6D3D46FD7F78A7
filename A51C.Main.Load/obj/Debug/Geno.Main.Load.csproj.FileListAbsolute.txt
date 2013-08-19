@@ -1,0 +1,10 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Geno.Main.Load.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Geno.Main.Load.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Load\obj\Debug\Geno.Main.Load.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Load\obj\Debug\Geno.Main.Load.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Load\obj\Debug\Geno.Main.Load.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Geno.Main.Load.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Geno.Main.Load.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Geno.Main.Load.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Geno.Main.Load.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Load\obj\Debug\Geno.Main.Load.pdb

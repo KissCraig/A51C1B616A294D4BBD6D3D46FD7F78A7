@@ -1,0 +1,4 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\bin\Debug\KCP.Image.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\bin\Debug\KCP.Image.Map.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Image.Map.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Image.Map\obj\Debug\KCP.Image.Map.pdb

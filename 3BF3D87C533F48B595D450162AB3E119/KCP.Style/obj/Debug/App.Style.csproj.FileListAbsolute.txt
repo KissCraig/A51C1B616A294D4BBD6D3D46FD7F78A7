@@ -1,0 +1,170 @@
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.Style.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.Style.pdb
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.FileIO.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.Resx.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.FileIO.pdb
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\bin\Debug\App.Resx.pdb
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\obj\Debug\App.Style.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.Share\App.Style\obj\Debug\App.Style.pdb
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Style.dll
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Style.pdb
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Base.dll
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.FileIO.dll
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Resx.dll
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Base.pdb
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.FileIO.pdb
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\bin\Debug\App.Resx.pdb
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\obj\Debug\App.Style.dll
+E:\HtmlDev\Github\Geno\Geno.Edu\App.Style\obj\Debug\App.Style.pdb
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Style.dll
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Style.pdb
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Base.dll
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.FileIO.dll
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Resx.dll
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Base.pdb
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.FileIO.pdb
+E:\HtmlDev\Github\AppInstall\App.Style\bin\Debug\App.Resx.pdb
+E:\HtmlDev\Github\AppInstall\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\AppInstall\App.Style\obj\Debug\App.Style.dll
+E:\HtmlDev\Github\AppInstall\App.Style\obj\Debug\App.Style.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Style.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Style.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Base.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.FileIO.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Resx.dll
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Base.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.FileIO.pdb
+E:\HtmlDev\Github\App.Port\App.Style\bin\Debug\App.Resx.pdb
+E:\HtmlDev\Github\App.Port\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\App.Port\App.Style\obj\Debug\App.Style.dll
+E:\HtmlDev\Github\App.Port\App.Style\obj\Debug\App.Style.pdb
+D:\GenoDev\App.Com\App.Style\bin\Debug\x64\SQLite.Interop.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\x86\SQLite.Interop.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Style.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Style.pdb
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Base.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.FileIO.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Font.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Resx.dll
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Base.pdb
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Font.pdb
+D:\GenoDev\App.Com\App.Style\bin\Debug\App.Resx.pdb
+D:\GenoDev\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\App.Com\App.Style\obj\Debug\App.Style.dll
+D:\GenoDev\App.Com\App.Style\obj\Debug\App.Style.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Style.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Style.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Base.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.FileIO.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Font.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Resx.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Base.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Font.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\bin\Debug\App.Resx.pdb
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Debug\App.Style.dll
+E:\HtmlDev\Github\Geno\New\App.Com\App.Style\obj\Debug\App.Style.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Style.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Style.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Base.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.FileIO.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Font.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Resx.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Base.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Font.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\bin\Debug\App.Resx.pdb
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\obj\Debug\App.Style.dll
+C:\Users\ShiYongAn\Desktop\App.Com\App.Style\obj\Debug\App.Style.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Style.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Style.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Base.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.FileIO.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Font.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Resx.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Base.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Font.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\bin\Debug\App.Resx.pdb
+D:\GenoDev\2013.3.28\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\2013.3.28\App.Com\App.Style\obj\Debug\App.Style.dll
+D:\GenoDev\2013.3.28\App.Com\App.Style\obj\Debug\App.Style.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Style.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Style.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Base.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.FileIO.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Font.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Resx.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Base.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Font.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\bin\Debug\App.Resx.pdb
+D:\GenoDev\2013.3.29\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\2013.3.29\App.Com\App.Style\obj\Debug\App.Style.dll
+D:\GenoDev\2013.3.29\App.Com\App.Style\obj\Debug\App.Style.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Style.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Style.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Base.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.FileIO.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Font.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Resx.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Base.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Font.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\bin\Debug\App.Resx.pdb
+D:\GenoDev\2013.3.31\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\2013.3.31\App.Com\App.Style\obj\Debug\App.Style.dll
+D:\GenoDev\2013.3.31\App.Com\App.Style\obj\Debug\App.Style.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Style.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Style.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Base.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.FileIO.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Font.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Resx.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Base.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Font.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\bin\Debug\App.Resx.pdb
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Debug\App.Style.dll
+D:\GenoDev\2013.4.1\App.Com\App.Style\obj\Debug\App.Style.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Style.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Style.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Base.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.FileIO.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Font.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Resx.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Base.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.FileIO.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Font.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\bin\Debug\App.Resx.pdb
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Debug\App.Style.dll
+F:\2013.4.4\Geno.Edu\App.Com\App.Style\obj\Debug\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\bin\Debug\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Debug\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Style\obj\Debug\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Style.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Resx.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.Resx.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\bin\Debug\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Debug\App.Style.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Debug\App.Style.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Style\obj\Debug\App.Style.pdb

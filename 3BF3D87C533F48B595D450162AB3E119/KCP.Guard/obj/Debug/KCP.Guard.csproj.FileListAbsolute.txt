@@ -1,0 +1,22 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Debug\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\bin\Debug\KCP.Guard.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.pdb
+E:\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.dll
+E:\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Guard.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Guard\obj\Debug\KCP.Guard.pdb

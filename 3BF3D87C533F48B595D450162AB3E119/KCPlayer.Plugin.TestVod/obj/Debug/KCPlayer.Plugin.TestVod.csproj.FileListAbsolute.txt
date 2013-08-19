@@ -1,0 +1,35 @@
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.TestVod.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.TestVod.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+E:\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+E:\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+E:\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+E:\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.dll
+E:\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csprojResolveAssemblyReference.cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.TestVod\obj\Debug\KCPlayer.Plugin.TestVod.csprojResolveAssemblyReference.cache

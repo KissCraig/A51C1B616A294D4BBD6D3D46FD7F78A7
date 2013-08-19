@@ -1,0 +1,5 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Guard.List.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Guard.List.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Guard.List\obj\Debug\Geno.Guard.List.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Guard.List\obj\Debug\Geno.Guard.List.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Guard.List\obj\Debug\Geno.Guard.List.pdb

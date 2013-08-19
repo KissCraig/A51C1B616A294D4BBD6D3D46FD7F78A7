@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15B71226-E59D-47A7-9BDC-44E62FDA408D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SongTasteMusicBox</RootNamespace>
+    <AssemblyName>SongTasteMusicBox</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\KCPlayerApi\bin\Debug\Plugin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="QuartzTypeLib, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\CSharp\SongTastePlayer\QuartzTypeLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Blur.cs" />
+    <Compile Include="Controls\GraphicBaseControls\GradientButton.cs" />
+    <Compile Include="Controls\GraphicBaseControls\GradientRect.cs" />
+    <Compile Include="Controls\GraphicBaseControls\GraphicLabelPlus.cs" />
+    <Compile Include="Controls\GraphicBaseControls\GraphicLabelScroll.cs" />
+    <Compile Include="Controls\GraphicBaseControls\MenuRenderPlus.cs" />
+    <Compile Include="Controls\GraphicBaseControls\PlayerBar.cs" />
+    <Compile Include="Controls\GraphicBaseControls\VolumeBar.cs" />
+    <Compile Include="Controls\ImageManager.cs" />
+    <Compile Include="Controls\PlayerList\GifPlay.cs" />
+    <Compile Include="Controls\PlayerList\HotTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\PlayerList\MusicEntity.cs" />
+    <Compile Include="Controls\PlayerList\PlayerList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\PlayerList\PlayerList.Designer.cs">
+      <DependentUpon>PlayerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PlayerList\SmallButton.cs" />
+    <Compile Include="Layout\GraphicAbstract\GraphicBaseControl\GraphicLabel.cs" />
+    <Compile Include="Layout\GraphicAbstract\GraphicBaseControl\GraphicPicture.cs" />
+    <Compile Include="Layout\GraphicAbstract\Interface\Class\GraphicBase.cs" />
+    <Compile Include="Layout\GraphicAbstract\Interface\IGraphicBase.cs" />
+    <Compile Include="Layout\GraphicAbstract\Interface\IGraphicControlBase.cs" />
+    <Compile Include="Layout\GraphicLayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainInterFace.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PublicInterFace.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\PlayerList\PlayerList.resx">
+      <DependentUpon>PlayerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ApplicationIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScanLoader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UpMusic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\播放.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\单曲循环.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\静音.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\上一首.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\顺序播放.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\随机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\停止.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\下一首.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\下载.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\循环列表.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\音量中等.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\音量最大.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\音量最小.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\暂停.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\567757.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20121018050249158_easyicon_cn_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnimateProgress.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\common.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\common2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MiniMode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MiniPause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MiniPlayButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextMusic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Release\QuartzTypeLib.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\SongTaste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\QuartzTypeLib.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

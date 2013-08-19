@@ -1,0 +1,6 @@
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.dll
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\bin\Release\KCPlayer.Plugin.TestVod.pdb
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\obj\Release\KCPlayer.Plugin.TestVod.Properties.Resources.resources
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\obj\Release\KCPlayer.Plugin.TestVod.csproj.GenerateResource.Cache
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\obj\Release\KCPlayer.Plugin.TestVod.dll
+J:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.TestVod\obj\Release\KCPlayer.Plugin.TestVod.pdb

@@ -1,0 +1,22 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\bin\Debug\KCP.Control.Tase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\bin\Debug\KCP.Control.Tase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.pdb
+E:\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.dll
+E:\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Control.Tase.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Control.Tase\obj\Debug\KCP.Control.Tase.pdb

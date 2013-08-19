@@ -1,0 +1,5 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\bin\Release\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\bin\Release\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Release\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Release\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Release\App.Control.Base.csprojResolveAssemblyReference.cache

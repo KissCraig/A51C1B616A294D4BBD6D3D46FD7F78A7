@@ -1,0 +1,22 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\bin\Debug\KCP.Main.Tile.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\bin\Debug\KCP.Main.Tile.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.pdb
+E:\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.dll
+E:\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Main.Tile.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main.FlyTile\obj\Debug\KCP.Main.Tile.pdb

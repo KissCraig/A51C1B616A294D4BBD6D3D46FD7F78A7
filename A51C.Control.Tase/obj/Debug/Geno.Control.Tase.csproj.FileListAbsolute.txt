@@ -1,0 +1,12 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Tase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Tase.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Tase\obj\Debug\Geno.Control.Tase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Tase\obj\Debug\Geno.Control.Tase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Tase\obj\Debug\Geno.Control.Tase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Tase.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Tase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Tase\obj\Debug\Geno.Control.Tase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Tase\obj\Debug\Geno.Control.Tase.MetroForView.resources
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Tase\obj\Debug\Geno.Control.Tase.csproj.GenerateResource.Cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Tase\obj\Debug\Geno.Control.Tase.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Tase\obj\Debug\Geno.Control.Tase.pdb

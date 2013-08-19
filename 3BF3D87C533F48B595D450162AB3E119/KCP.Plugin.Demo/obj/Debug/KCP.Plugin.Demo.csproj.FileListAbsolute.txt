@@ -1,0 +1,13 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Plugin.Demo.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Plugin.Demo.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\obj\Debug\KCP.Plugin.Demo.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\obj\Debug\KCP.Plugin.Demo.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Fase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Gase.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Fase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.Control.Gase.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\bin\Debug\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Demo\obj\Debug\KCP.Plugin.Demo.csprojResolveAssemblyReference.cache

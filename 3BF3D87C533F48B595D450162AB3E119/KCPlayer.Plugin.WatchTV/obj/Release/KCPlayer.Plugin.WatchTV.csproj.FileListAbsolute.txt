@@ -1,0 +1,6 @@
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\bin\Release\KCPlayer.Plugin.WatchTV.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\bin\Release\KCPlayer.Plugin.WatchTV.pdb
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Release\KCPlayer.Plugin.WatchTV.Properties.Resources.resources
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Release\KCPlayer.Plugin.WatchTV.csproj.GenerateResource.Cache
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Release\KCPlayer.Plugin.WatchTV.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\obj\Release\KCPlayer.Plugin.WatchTV.pdb

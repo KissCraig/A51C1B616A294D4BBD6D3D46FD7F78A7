@@ -1,0 +1,7 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Theme.Font.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Theme.Font.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Theme.Font.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Theme.Font.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Theme.Font\obj\Debug\Geno.Main.Theme.Font.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Theme.Font\obj\Debug\Geno.Main.Theme.Font.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Theme.Font\obj\Debug\Geno.Main.Theme.Font.csprojResolveAssemblyReference.cache

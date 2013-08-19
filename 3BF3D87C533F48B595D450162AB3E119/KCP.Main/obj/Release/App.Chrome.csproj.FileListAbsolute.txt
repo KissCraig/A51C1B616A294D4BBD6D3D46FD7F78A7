@@ -1,0 +1,14 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Chrome.exe
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Chrome.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.Properties.Resources.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.csproj.GenerateResource.Cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.exe
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Guard.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\bin\Release\App.Guard.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Chrome\obj\Release\App.Chrome.ChromeHelper.resources

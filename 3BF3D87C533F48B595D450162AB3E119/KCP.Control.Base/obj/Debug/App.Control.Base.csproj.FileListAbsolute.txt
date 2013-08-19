@@ -1,0 +1,10 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Control.Base\bin\Debug\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Control.Base\bin\Debug\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Control.Base\obj\Debug\App.Control.Base.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Control.Base\obj\Debug\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\App\App.Control.Base\obj\Debug\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\bin\Debug\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\bin\Debug\App.Control.Base.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Debug\App.Control.Base.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Debug\App.Control.Base.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\SafeTextHelper\App.Control.Base\obj\Debug\App.Control.Base.pdb

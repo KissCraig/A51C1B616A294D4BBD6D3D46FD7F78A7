@@ -1,0 +1,32 @@
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Debug\VodWatching.csproj.GenerateResource.Cache
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Debug\VodWatching.Properties.Resources.resources
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Debug\VodWatching.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Debug\VodWatching.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\VodWatching\obj\Debug\VodWatching.VMovieData.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll.config
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.ContentPanel.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.Properties.Resources.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.csproj.GenerateResource.Cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.pdb
+E:\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll.config
+E:\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll
+E:\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.pdb
+E:\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.ContentPanel.resources
+E:\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.Properties.Resources.resources
+E:\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.csproj.GenerateResource.Cache
+E:\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.dll
+E:\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll.config
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\KCPlayerApi\bin\Debug\Plugin\VodWatching.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.ContentPanel.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\VodWatching\VodWatching\obj\Debug\VodWatching.pdb

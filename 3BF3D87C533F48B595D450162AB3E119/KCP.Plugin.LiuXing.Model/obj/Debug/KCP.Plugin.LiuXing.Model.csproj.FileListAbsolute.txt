@@ -1,0 +1,16 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\Lib\KCP.Plugin.LiuXing.Model.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing\Lib\KCP.Plugin.LiuXing.Model.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+E:\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.dll
+E:\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\bin\Debug\KCP.Plugin.LiuXing.Model.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.LiuXing.Model\obj\Debug\KCP.Plugin.LiuXing.Model.pdb

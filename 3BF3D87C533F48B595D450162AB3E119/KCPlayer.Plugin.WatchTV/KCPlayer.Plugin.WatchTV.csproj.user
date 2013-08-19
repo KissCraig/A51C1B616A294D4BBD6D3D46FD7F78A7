@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\CraigTaylor\Desktop\新建文件夹 %286%29\KCPlayer\KCPlayer5000.exe</StartProgram>
+    <StartArguments>-test "E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.dll"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-test "F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.WatchTV\bin\Release\KCPlayer.Plugin.WatchTV.dll"</StartArguments>
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\APP Center\浏览远程\KCPlayer\KCPlayer5000.exe</StartProgram>
+  </PropertyGroup>
+</Project>

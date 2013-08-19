@@ -1,0 +1,21 @@
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.Properties.Resources.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csproj.GenerateResource.Cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.pdb
+E:\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.Properties.Resources.resources
+E:\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csproj.GenerateResource.Cache
+E:\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.dll
+E:\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Music.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Music\obj\Debug\KCP.Plugin.Music.pdb

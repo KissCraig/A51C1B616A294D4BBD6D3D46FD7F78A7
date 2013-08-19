@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ACF41426-1C59-4D8B-AE70-F66A334F88EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KCP.Main.Load</RootNamespace>
+    <AssemblyName>KCP.Main.Load</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\KCP.Main\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LoadHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KCP.Control.Base\KCP.Control.Base.csproj">
+      <Project>{89fb194b-bb15-4463-9340-3b60177e4e77}</Project>
+      <Name>KCP.Control.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Control.Fase\KCP.Control.Fase.csproj">
+      <Project>{990da615-344c-449e-8a28-f3b950a5b5d5}</Project>
+      <Name>KCP.Control.Fase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Control.Gase\KCP.Control.Gase.csproj">
+      <Project>{644adf69-3817-45be-8f69-ba1098651787}</Project>
+      <Name>KCP.Control.Gase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Control.Tase\KCP.Control.Tase.csproj">
+      <Project>{dfdf2fe2-12ce-45b8-b885-8ef66957486d}</Project>
+      <Name>KCP.Control.Tase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.File.Cmp\KCP.File.Cmp.csproj">
+      <Project>{2fada2c2-01ba-465c-aa0d-efc385ba2358}</Project>
+      <Name>KCP.File.Cmp</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.File.Ens\KCP.File.Ens.csproj">
+      <Project>{b42232d3-2817-416a-83af-76266da916f4}</Project>
+      <Name>KCP.File.Ens</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Guard.List\KCP.Guard.List.csproj">
+      <Project>{78bfe845-0dfc-4d80-8650-c7b8f73ef1a2}</Project>
+      <Name>KCP.Guard.List</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Guard\KCP.Guard.csproj">
+      <Project>{2fc8e88a-dcfd-4d93-9822-7fa005897ed6}</Project>
+      <Name>KCP.Guard</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Main.Bar\KCP.Main.Bar.csproj">
+      <Project>{8c4a950a-ee37-453e-b4de-92b156ee8be5}</Project>
+      <Name>KCP.Main.Bar</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Main.Base\KCP.Main.Base.csproj">
+      <Project>{413f6153-624f-42b8-83a0-5c664cf276b9}</Project>
+      <Name>KCP.Main.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Main.FlyTile\KCP.Main.Tile.csproj">
+      <Project>{f0f65958-d3e9-4346-9f5d-77d6661b996e}</Project>
+      <Name>KCP.Main.Tile</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.Info\KCP.Info.csproj">
+      <Project>{6243b59c-2b3d-4e89-b948-51e9ea8966c7}</Project>
+      <Name>KCP.Info</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Theme.Default\KCP.Theme.Default.csproj">
+      <Project>{16e89d6c-842e-4e55-a1e5-6891d58287c3}</Project>
+      <Name>KCP.Theme.Default</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Theme.Font\KCP.Theme.Font.csproj">
+      <Project>{31c83219-34c8-48d0-97af-55c754f6ab59}</Project>
+      <Name>KCP.Theme.Font</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Theme\KCP.Theme.csproj">
+      <Project>{b4cc5cfe-a414-49c1-afed-8f32e5e7ee70}</Project>
+      <Name>KCP.Theme</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP\KCP.csproj">
+      <Project>{5a458f2a-18cc-430f-9ff7-18eeda2f7b91}</Project>
+      <Name>KCP</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

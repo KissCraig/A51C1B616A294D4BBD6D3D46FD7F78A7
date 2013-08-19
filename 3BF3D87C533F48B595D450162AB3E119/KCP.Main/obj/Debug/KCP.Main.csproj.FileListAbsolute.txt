@@ -1,0 +1,38 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.exe
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.FrmMain.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.Properties.Resources.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csproj.GenerateResource.Cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.exe
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.exe
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.FrmMain.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.Properties.Resources.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csproj.GenerateResource.Cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.exe
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.Main.exe
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.Main.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\KCP.pdb
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.FrmMain.resources
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.Properties.Resources.resources
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csproj.GenerateResource.Cache
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.exe
+E:\KCPlayer\KCP.Main\obj\Debug\KCP.Main.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.exe
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.Main.Load.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\KCP.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.FrmMain.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.exe
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\obj\Debug\KCP.Main.pdb

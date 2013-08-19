@@ -1,0 +1,10 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Fase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Fase.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Fase\obj\Debug\Geno.Control.Fase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Fase\obj\Debug\Geno.Control.Fase.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Fase\obj\Debug\Geno.Control.Fase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Fase.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Fase.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Fase\obj\Debug\Geno.Control.Fase.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Fase\obj\Debug\Geno.Control.Fase.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Fase\obj\Debug\Geno.Control.Fase.pdb

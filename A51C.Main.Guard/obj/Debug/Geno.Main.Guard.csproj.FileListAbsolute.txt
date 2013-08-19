@@ -1,0 +1,5 @@
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Guard.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Guard.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Guard\obj\Debug\Geno.Main.Guard.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Guard\obj\Debug\Geno.Main.Guard.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Guard\obj\Debug\Geno.Main.Guard.pdb

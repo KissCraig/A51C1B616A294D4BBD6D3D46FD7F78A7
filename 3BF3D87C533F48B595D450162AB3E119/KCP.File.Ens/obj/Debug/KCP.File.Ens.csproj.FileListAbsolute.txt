@@ -1,0 +1,19 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\bin\Debug\KCP.File.Ens.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\bin\Debug\KCP.File.Ens.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.pdb
+E:\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.dll
+E:\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.File.Ens.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.File.Ens\obj\Debug\KCP.File.Ens.pdb

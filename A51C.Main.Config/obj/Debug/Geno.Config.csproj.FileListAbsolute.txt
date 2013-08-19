@@ -1,0 +1,8 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Config.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Config.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Config\obj\Debug\Geno.Config.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\KCP.Config\obj\Debug\Geno.Config.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Config\obj\Debug\Geno.Config.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Config\obj\Debug\Geno.Config.csprojResolveAssemblyReference.cache
+D:\GenoSoft\Geno.Edu.HExam\Geno.Config\obj\Debug\Geno.Config.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Config\obj\Debug\Geno.Config.pdb

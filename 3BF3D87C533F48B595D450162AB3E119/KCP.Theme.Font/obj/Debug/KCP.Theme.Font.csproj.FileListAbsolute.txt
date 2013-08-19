@@ -1,0 +1,20 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\bin\Debug\KCP.Theme.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\bin\Debug\KCP.Theme.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.csprojResolveAssemblyReference.cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.pdb
+E:\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.dll
+E:\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Theme.Font.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Theme.Font\obj\Debug\KCP.Theme.Font.pdb

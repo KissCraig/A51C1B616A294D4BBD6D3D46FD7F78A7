@@ -1,0 +1,12 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Config\obj\Debug\KCP.Config.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Config\obj\Debug\KCP.Config.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.pdb
+E:\KCPlayer\KCP.Config\obj\Debug\KCP.Config.dll
+E:\KCPlayer\KCP.Config\obj\Debug\KCP.Config.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Config.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Config\obj\Debug\KCP.Config.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Config\obj\Debug\KCP.Config.pdb

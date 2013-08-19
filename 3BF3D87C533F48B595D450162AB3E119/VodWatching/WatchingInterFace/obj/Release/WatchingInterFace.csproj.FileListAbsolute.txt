@@ -1,0 +1,5 @@
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\WatchingInterFace\bin\WatchingInterFace.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\WatchingInterFace\bin\WatchingInterFace.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\WatchingInterFace\obj\Release\WatchingInterFace.dll
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\WatchingInterFace\obj\Release\WatchingInterFace.pdb
+D:\开发程序\CSharp\KCPlayerPlugin\VodWatching\WatchingInterFace\obj\Release\WatchingInterFace.csprojResolveAssemblyReference.cache

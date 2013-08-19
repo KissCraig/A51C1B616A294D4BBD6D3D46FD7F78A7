@@ -1,0 +1,12 @@
+E:\KCPlayer\WebApplication1\bin\WebApplication1.dll.config
+E:\KCPlayer\WebApplication1\bin\WebApplication1.dll
+E:\KCPlayer\WebApplication1\bin\WebApplication1.pdb
+E:\KCPlayer\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\KCPlayer\WebApplication1\obj\Debug\WebApplication1.dll
+E:\KCPlayer\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\bin\WebApplication1.dll.config
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\bin\WebApplication1.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\bin\WebApplication1.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\WebApplication1\obj\Debug\WebApplication1.pdb

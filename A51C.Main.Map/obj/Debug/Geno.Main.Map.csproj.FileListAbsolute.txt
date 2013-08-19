@@ -1,0 +1,8 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Map.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Main.Map.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Map\obj\Debug\Geno.Main.Map.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main.Map\obj\Debug\Geno.Main.Map.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Map.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Main.Map.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Map\obj\Debug\Geno.Main.Map.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Main.Map\obj\Debug\Geno.Main.Map.pdb

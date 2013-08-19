@@ -1,0 +1,5 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Theme.Default.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Theme.Default.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Theme.Default\obj\Debug\Geno.Theme.Default.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Theme.Default\obj\Debug\Geno.Theme.Default.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Theme.Default\obj\Debug\Geno.Theme.Default.csprojResolveAssemblyReference.cache

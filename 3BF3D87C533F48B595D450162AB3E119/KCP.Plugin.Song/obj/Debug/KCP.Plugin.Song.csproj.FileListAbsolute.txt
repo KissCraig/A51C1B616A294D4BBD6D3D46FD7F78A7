@@ -1,0 +1,21 @@
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.Properties.Resources.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csproj.GenerateResource.Cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.pdb
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.dll
+E:\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.pdb
+E:\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csprojResolveAssemblyReference.cache
+E:\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.Properties.Resources.resources
+E:\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csproj.GenerateResource.Cache
+E:\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.dll
+E:\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Main\bin\Debug\Plugins\KCP.Plugin.Song.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCP.Plugin.Song\obj\Debug\KCP.Plugin.Song.pdb

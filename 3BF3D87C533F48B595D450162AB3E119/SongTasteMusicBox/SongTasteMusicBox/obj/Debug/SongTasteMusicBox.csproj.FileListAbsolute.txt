@@ -1,0 +1,32 @@
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.dll
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.pdb
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csprojResolveAssemblyReference.cache
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTastePlayer.Controls.PlayerList.resources
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.Properties.Resources.resources
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csproj.GenerateResource.Cache
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.dll
+D:\开发程序\KCPlayerApi\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.pdb
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csprojResolveAssemblyReference.cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTastePlayer.Controls.PlayerList.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.Properties.Resources.resources
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csproj.GenerateResource.Cache
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.dll
+D:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.pdb
+E:\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.dll
+E:\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.pdb
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csprojResolveAssemblyReference.cache
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTastePlayer.Controls.PlayerList.resources
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.Properties.Resources.resources
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csproj.GenerateResource.Cache
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.dll
+E:\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\KCPlayerApi\bin\Debug\Plugin\SongTasteMusicBox.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csprojResolveAssemblyReference.cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTastePlayer.Controls.PlayerList.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\SongTasteMusicBox\SongTasteMusicBox\obj\Debug\SongTasteMusicBox.pdb

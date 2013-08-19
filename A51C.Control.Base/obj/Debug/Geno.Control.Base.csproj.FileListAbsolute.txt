@@ -1,0 +1,8 @@
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Base.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Main\bin\Debug\Plugins\Geno.Control.Base.pdb
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Base\obj\Debug\Geno.Control.Base.dll
+D:\GenoSoft\Geno.Edu.HExam\KCP.Control.Base\obj\Debug\Geno.Control.Base.pdb
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Base.dll
+D:\GenoSoft\Geno.Edu.HExam\Release\Plugins\Geno.Control.Base.pdb
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Base\obj\Debug\Geno.Control.Base.dll
+D:\GenoSoft\Geno.Edu.HExam\Geno.Control.Base\obj\Debug\Geno.Control.Base.pdb

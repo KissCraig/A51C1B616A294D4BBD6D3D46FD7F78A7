@@ -1,0 +1,47 @@
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.pdb
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+E:\HtmlDev\Github\KCPlayer\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.pdb
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+F:\2013.4.4\ShiYongAn\ShiYongAn\WinForm\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayerApi\bin\Debug\Plugin\KCPlayer.Plugin.LiuXing.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.pdb
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+H:\HtmlDev\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+D:\Programs\KCPlayer\新建文件夹\Plugin\KCPlayer.Plugin.LiuXing.dll
+D:\Programs\KCPlayer\新建文件夹\Plugin\KCPlayer.Plugin.LiuXing.pdb
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.dll
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.pdb
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+E:\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.pdb
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+D:\ShiYongAn\CraigTaylor Dev\Windows WinFrom\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\KCPlayer\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csprojResolveAssemblyReference.cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\bin\Release\KCPlayer.Plugin.LiuXing.pdb
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.Properties.Resources.resources
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.csproj.GenerateResource.Cache
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.dll
+D:\A51C1B616A294D4BBD6D3D46FD7F78A7\3BF3D87C533F48B595D450162AB3E119\KCPlayer.Plugin.LiuXing\obj\Debug\KCPlayer.Plugin.LiuXing.pdb

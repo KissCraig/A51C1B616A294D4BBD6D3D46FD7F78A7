@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{417F9AC0-1D9E-4A75-A185-C216C6DDD943}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KCP.Plugin.LiuXing</RootNamespace>
+    <AssemblyName>KCP.Plugin.LiuXing</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\KCP.Main\bin\Debug\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ListStart.cs" />
+    <Compile Include="LoadLiuXing\Dyfm\Search.cs" />
+    <Compile Include="LoadLiuXing\Dyfm\SearchData.cs" />
+    <Compile Include="LoadLiuXing\Dyfm\SearchDis.cs" />
+    <Compile Include="LoadLiuXing\Dyfm\SearchImg.cs" />
+    <Compile Include="LoadLiuXing\Dyfm\SearchUrl.cs" />
+    <Compile Include="PluginLoad.cs" />
+    <Compile Include="PluginLoadHelper.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\Search.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\SearchData.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\SearchDis.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\SearchImg.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\SearchPage.cs" />
+    <Compile Include="LoadLiuXing\Piaohua\SearchUrl.cs" />
+    <Compile Include="LoadLiuXing\Search\StartSearch.cs" />
+    <Compile Include="LoadLiuXing\torrentkitty\Search.cs" />
+    <Compile Include="LoadLiuXing\torrentkitty\SearchData.cs" />
+    <Compile Include="LoadLiuXing\torrentkitty\SearchDis.cs" />
+    <Compile Include="LoadLiuXing\torrentkitty\SearchImg.cs" />
+    <Compile Include="LoadLiuXing\Xunbo\Search.cs" />
+    <Compile Include="LoadLiuXing\YYet\Search.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchBase.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchData.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchDis.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchImg.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchPage.cs" />
+    <Compile Include="LoadLiuXing\YYet\SearchUrl.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KCP.Control.Base\KCP.Control.Base.csproj">
+      <Project>{89fb194b-bb15-4463-9340-3b60177e4e77}</Project>
+      <Name>KCP.Control.Base</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Control.Fase\KCP.Control.Fase.csproj">
+      <Project>{990da615-344c-449e-8a28-f3b950a5b5d5}</Project>
+      <Name>KCP.Control.Fase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Control.Gase\KCP.Control.Gase.csproj">
+      <Project>{644adf69-3817-45be-8f69-ba1098651787}</Project>
+      <Name>KCP.Control.Gase</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.Info\KCP.Info.csproj">
+      <Project>{6243b59c-2b3d-4e89-b948-51e9ea8966c7}</Project>
+      <Name>KCP.Info</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.Base\KCP.Plugin.LiuXing.Base.csproj">
+      <Project>{9e394d41-c5dd-4c96-bed2-4b102a574fb2}</Project>
+      <Name>KCP.Plugin.LiuXing.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.Data\KCP.Plugin.LiuXing.Data.csproj">
+      <Project>{be791f10-9f2b-45cf-a78d-6c3872bb94be}</Project>
+      <Name>KCP.Plugin.LiuXing.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.Frm\KCP.Plugin.LiuXing.Frm.csproj">
+      <Project>{857b5cfd-967a-4fe5-a5d9-67ef3cd1d6a3}</Project>
+      <Name>KCP.Plugin.LiuXing.Frm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.Model\KCP.Plugin.LiuXing.Model.csproj">
+      <Project>{0f8d3bcf-b50b-4bd3-96eb-39598e367ce5}</Project>
+      <Name>KCP.Plugin.LiuXing.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.Url\KCP.Plugin.LiuXing.Url.csproj">
+      <Project>{8b90fd02-49ec-4b1b-abac-42a9ad093e3d}</Project>
+      <Name>KCP.Plugin.LiuXing.Url</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP.Plugin.LiuXing.View\KCP.Plugin.LiuXing.View.csproj">
+      <Project>{36daccdb-4e6a-4084-8384-c39aeffdbbeb}</Project>
+      <Name>KCP.Plugin.LiuXing.View</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KCP\KCP.csproj">
+      <Project>{5a458f2a-18cc-430f-9ff7-18eeda2f7b91}</Project>
+      <Name>KCP</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ApplicationBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\ApplicationLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="LoadLiuXing\Nav\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
